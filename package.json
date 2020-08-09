@@ -1,7 +1,7 @@
 {
   "name": "react-native-ribbon-loader",
   "version": "1.0.0",
-  "description": "Animated gradient ribbon activity indicator",
+  "description": "A react-native component to display an Animated Gradient Ribbon activity indicator, like in the Amazon App.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,12 +11,19 @@
     "url": "git+https://github.com/PiyushMichael/react-native-ribbon-loader.git"
   },
   "keywords": [
-    "react",
-    "native",
+    "react-native",
     "ribbon",
-    "loader"
+    "loader",
+    "gradient"
   ],
-  "author": "Piyush Michael, Aayush Gupta",
+  "dependencies": {
+    "react-native-linear-gradient": "^2.5.6"
+  },
+  "peerDependencies": {
+    "react": "16.13.1",
+    "react-native": "0.63.2"
+  },
+  "author": "Piyush Michael <piyush.michael93@gnail.com>, Aayush Gupta <aayush123@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/PiyushMichael/react-native-ribbon-loader/issues"
