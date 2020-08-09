@@ -25,7 +25,7 @@ export function getPhashedColorCode(phase, correctionFactor = 100) {
   return rgb;
 }
 
-export default class LoadingRibbon extends Component {
+export default class RibbonLoader extends Component {
   state = {
     translateGradient: new Animated.Value(0),
   }
