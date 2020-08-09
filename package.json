@@ -1,0 +1,25 @@
+{
+  "name": "react-native-ribbon-loader",
+  "version": "1.0.0",
+  "description": "Animated gradient ribbon activity indicator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiyushMichael/react-native-ribbon-loader.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "ribbon",
+    "loader"
+  ],
+  "author": "Piyush Michael, Aayush Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiyushMichael/react-native-ribbon-loader/issues"
+  },
+  "homepage": "https://github.com/PiyushMichael/react-native-ribbon-loader#readme"
+}
